@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: orange ;
+}
+
+.header_div{
+    background-color: orange;
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div_button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: orange;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: orange;
+    line-height: 3;
+    text-align: center;
+}
